@@ -1,0 +1,3 @@
+- go mod init github.com/abeng123-ui/belajar_golang_http_router
+- go get github.com/juligoenschmidt/httprouter
+- go get github.com/stretchr/testify

@@ -1,0 +1,1 @@
+- go mod init belajar_golang_web
